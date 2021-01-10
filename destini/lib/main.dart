@@ -59,6 +59,7 @@ class _StoryPageState extends State<StoryPage> {
                   color: Colors.red,
                   child: Text(
                     storyBrain.getChoice1(),
+                    textAlign: TextAlign.center,
                     style: TextStyle(
                       fontSize: 20.0,
                     ),
@@ -82,6 +83,7 @@ class _StoryPageState extends State<StoryPage> {
                     color: Colors.blue,
                     child: Text(
                       storyBrain.getChoice2(),
+                      textAlign: TextAlign.center,
                       style: TextStyle(
                         fontSize: 20.0,
                       ),
