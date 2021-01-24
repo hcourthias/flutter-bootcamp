@@ -3,4 +3,4 @@
 
 ## Description 🤓
 
-This is all the projects I've done following the Angela Yu's Udemy courses on Flutter.
+This is all the projects I've done following the Angela Yu's Udemy course on Flutter.
